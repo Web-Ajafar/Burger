@@ -1,0 +1,192 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+/* bebas neun */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dosis:wght@200;300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.container{
+width: 90%;margin: auto;
+}
+header{
+    width: 100%;float: left;background: url(../img/bg.png) no-repeat;
+    background-size: cover;
+    
+}
+.main-header{width: 100%;float: left;padding:10px 0px ;margin-top:20px ;
+
+}
+.logo-part{width: 50%;float: left;padding:10px 0px;
+
+}
+.logo-part img{
+
+}
+.menu-part{width: 50%;float: left;
+
+}
+.delivery{width: 100%;float: left;text-align: end;
+
+}
+.delivery img {
+    margin-right: 20px;
+}
+}
+.delivery span{font-size: 16px; font-weight:200px;font-family: 'Montserrat', sans-serif;
+
+}
+.menu{
+
+}
+.menu ul{text-align: end;
+
+}
+
+
+.menu li{list-style:none ;display: inline-block;margin-top: 15px;
+
+}
+.menu a{text-decoration: none;letter-spacing: 3px;margin: 0px 10px;
+
+}
+.hero{width: 100%;float: left;
+
+}
+.hero-writing-part{width: 50%;float: left;margin-top: 170px;
+
+}
+.hero-heading-box{font-size: 20px;
+    font-weight: 400;
+    border: 2px dashed;
+    display: inline-block;
+    padding: 7px 20px;
+
+}
+.hero-heading{font-size: 150px;
+
+}
+.hero-subheading{font-size: 100px;
+    
+}
+.hero-img-part{width: 50%;float: left;
+
+}
+.hero-img-part img{
+
+}
+main{
+    width: 100%;float: left;
+}
+.food-part{
+
+}
+.food-img-part{
+
+}
+.img-part1{
+width: 50%;float: left;margin-top: 50px;
+}
+.img-part2{
+width: 50%;float: left;margin-top: 50px;padding-left: 15px;
+}
+.img-part3{
+width: 50%;float: left;margin-top: 30px;padding-left: 15px;
+}
+.button{
+    text-align: center;
+}
+.btn-dark{
+    background-color: #ffc045;
+    padding: 5px 15px;
+    font-size: 15px;margin-top: 80px;
+}
+.food-writing-part{
+    text-align: center;
+}
+.enjoy-part h2{
+    font-size: 35px;margin-top: 20px;padding: 10px 0px;color:#3d2514 ;
+}
+.food-writing-para{
+    font-size: 20px;
+}
+/* info part */
+.info-section{
+width: 100%;float: left;
+}
+.box-part{
+
+}
+.box-one{
+    width: 33.33%;float: left;margin-top: 85px;
+}
+.box-writing-para1{margin-top: 10px;
+
+}
+.box-writing-para1 h3{
+text-align: center;font-size: 25px;color:#3d2514 ;
+}
+.box-writing-para1 p{
+text-align: center;font-size: 10px;margin-top: 10px;
+}
+.button{
+
+}
+.but-dark{
+    padding: 5px 30px;font-size: 15px;margin-top: 20px;color:white;background-color: red;
+}
+.box-two{
+    width: 33.33%;float: left;margin-top: 60px;
+}
+.box-writing-para2{
+
+}
+.box-writing-para2 h3{
+    text-align: center;font-size: 25px;color:#3d2514 ;
+}
+.box-writing-para2 p{
+    text-align: center;font-size: 10px;margin-top: 10px;
+}
+.button{
+
+}
+.box-three{
+    width: 33.33%;float: left;margin-top: 85px;
+}
+.box-writing-para3{
+
+}
+.box-writing-para3 h3{
+    text-align: center;font-size: 25px;color:#3d2514 ;
+}
+.box-writing-para3 p{
+    text-align: center;font-size: 10px;margin-top: 10px;
+}
+.button{
+
+}
+/* feature section */
+.info{
+width: 100%;float: left;
+}
+
+.info-part{
+}
+info-writing-part{
+width: 50%;float: left;
+}
+.info-writing-part h3{
+
+}
+.info-writing-part h1{
+
+}
+.info-writing-part p{
+
+}
+.info-img-part{
+width: 50%;float: left;
+}
